@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.Internal.System.UserProfile.dll",
+  "latest": "195779302-5D344992CDA611CCBE9DBF37024D27B7-1",
+  "builds": [
+    {
+      "key": "195779302-5D344992CDA611CCBE9DBF37024D27B7-1",
+      "timestamp": "195779302",
+      "pdb_guid": "5D344992CDA611CCBE9DBF37024D27B7",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/195779302-5D344992CDA611CCBE9DBF37024D27B7-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
